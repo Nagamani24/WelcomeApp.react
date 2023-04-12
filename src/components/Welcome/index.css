@@ -1,0 +1,34 @@
+/* Write your CSS here */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Bree Serif;
+  background-color: #1e293b;
+  height: 100vh;
+}
+
+h1 {
+  color: #f0bb03;
+  font-size: 60px;
+  margin: 0px;
+}
+
+p {
+  color: white;
+  font-size: 22px;
+}
+button {
+  background-color: white;
+  color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 5px;
+  border: 0px;
+  font-size: 14px;
+  font-family: Bree Serif;
+}
